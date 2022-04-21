@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <div>Döner</div>
-      <Counter />
+      <Counter start={0} />
     </div>
   );
 };
